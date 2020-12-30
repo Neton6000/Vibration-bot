@@ -1,0 +1,7 @@
+{
+    "difficulty": 2.5,
+    "firstLevel": 100,
+    "min": 10,
+    "max": 20,
+    "botPrefixes": ["!", "?", "+", "-", "/"]
+}

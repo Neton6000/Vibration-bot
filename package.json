@@ -1,0 +1,17 @@
+{
+    "name": "vibration",
+    "version": "1.0.0",
+    "description": "",
+    "main": "src/index.js",
+    "scripts": {
+        "client": "nodemon ."
+    },
+    "author": "",
+    "license": "ISC",
+    "devDependencies": {
+        "nodemon": "^2.0.6"
+    },
+    "dependencies": {
+        "discord.js": "^12.5.1"
+    }
+}
